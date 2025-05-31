@@ -1,4 +1,5 @@
 FULL STACK APPLICATION USING React 19, Next,js 15 Tailwind CSS, Neon DB ,Prisma , schdun UI
+
 The AI Career Coach acts as a comprehensive virtual assistant, guiding users through every stage of job preparation. By integrating generative AI (Gemini API), full-stack development technologies (React 19, Next.js 15), and intelligent backend systems (Prisma ORM, NeonDB), the platform delivers a seamless and adaptive user experience. It mimics real-time interview scenarios, provides structured feedback, and empowers users with tools like resume and cover letter generators, all tailored to the user’s job goals and experience level. 
  
 This project is built to support scalability, affordability, and efficiency—making it accessible to a wide range of users including students, fresh graduates, and working professionals. It not only bridges the gap between academic learning and industry expectations but also encourages self-assessment and career ownership. 
